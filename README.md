@@ -4,6 +4,10 @@
 
 This project involved leveraging SQL queries to analyze pizza sales data.
 
+   Solved a complete set of pizza sales analysis queries in MySQL and replicated the same results in Power BI, showcasing strong cross-platform data validation and reporting skills.
+
+   Outcome: Demonstrated my ability to validate logic across platforms and build a reliable, insight-driven Power BI dashboard from raw SQL analysis.
+
 📊Project Purpose & Goals: 
 
 The primary purpose of this project was to extract actionable insights from pizza sales data to inform business decisions and optimize operations. Key goals included understanding sales performance, identifying popular pizza types and sizes, and analyzing revenue distribution.
