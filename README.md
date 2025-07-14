@@ -1,4 +1,4 @@
-# Pizza Sales Performance Analysis SQL & POWER BI Analysis | SQL & Power BI | 
+# Pizza Sales Performance Analysis | SQL & Power BI | 
 
 
    Solved a complete set of pizza sales analysis queries in MySQL and replicated the same results in Power BI, showcasing strong cross-platform data validation and reporting skills.
